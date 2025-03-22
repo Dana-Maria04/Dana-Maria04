@@ -27,3 +27,9 @@ I'm driven by creativity and a commitment to continuous learning, always looking
 ### Spoken Languages
 - **English:** C1 (CAE)
 - **French:** B1
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeoMavri/LeoMavri/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeoMavri/LeoMavri/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/LeoMavri/LeoMavri/output/github-snake.svg" />
+</picture>
