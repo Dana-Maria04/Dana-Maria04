@@ -45,6 +45,9 @@ I'm driven by creativity and a commitment to continuous learning, always looking
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
 </div>
 
+
+![snake gif](https://github.com/Dana-Maria04/Dana-Maria04/blob/output/github-snake-dark.svg)
+
 ###
 
 ### Soft Skills
@@ -57,4 +60,3 @@ I'm driven by creativity and a commitment to continuous learning, always looking
 - **English:** C1 (CAE)
 - **French:** B1
 
-![snake gif](https://github.com/Dana-Maria04/Dana-Maria04/blob/output/github-snake-dark.svg)
